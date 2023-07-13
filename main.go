@@ -7,4 +7,5 @@ import (
 
 func main() {
 	fmt.Println(hello.Greet())
+	fmt.Println("Test number 1")
 }
